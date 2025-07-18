@@ -1,0 +1,7 @@
+streamlit
+pandas
+yfinance
+gspread
+gspread-dataframe
+oauth2client
+gspread-formatting
